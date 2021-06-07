@@ -59,7 +59,9 @@ basicCN + geom_boxplot()
 favstats(VitC~Cult,data=veggy)
 ```
  
- The table shows that c52  on average receives 64.5 IU of vitamin C whereas c39 only receives on average 51.0 IU of vitamin C.
+ The table shows that c52 has a mean of 64.4 IU of vitamin C whereas c39 only has the mean of 51.5 IU of vitamin C.
+
+(Comments: This is the part that I've redone Professor. Instead of mentioning what the median was, I changed my results to mention the mean.I hope this is correct.)
 
 ## Inferential Results
 
